@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e3f2b25-cbae-4d0f-8430-ff01f99e03a0" name="Default" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="9e3f2b25-cbae-4d0f-8430-ff01f99e03a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/jelf-ticket-server.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
